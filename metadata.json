@@ -1,0 +1,7 @@
+{
+  "name": "ar control barberia uñas steticas",
+  "description": "Una aplicación móvil web progresiva para la gestión de citas y asesoramiento de belleza con IA para barberías, salones de belleza y spas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
